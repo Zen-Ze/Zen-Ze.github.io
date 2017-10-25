@@ -1,0 +1,13 @@
+com.ucd.comp41690.team21.zenze
+com.ucd.comp41690.team21.zenze.activities
+com.ucd.comp41690.team21.zenze.backend
+com.ucd.comp41690.team21.zenze.backend.database.generators
+com.ucd.comp41690.team21.zenze.backend.database.helpers
+com.ucd.comp41690.team21.zenze.backend.database.misc
+com.ucd.comp41690.team21.zenze.backend.database.models
+com.ucd.comp41690.team21.zenze.backend.weather
+com.ucd.comp41690.team21.zenze.game
+com.ucd.comp41690.team21.zenze.game.commands
+com.ucd.comp41690.team21.zenze.game.components
+com.ucd.comp41690.team21.zenze.game.util
+com.ucd.comp41690.team21.zenze.game.view
